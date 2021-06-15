@@ -26,3 +26,4 @@
 
 
 ![3  HR dashboard Salary,turnover and rentention rate](https://user-images.githubusercontent.com/85949588/122113945-5be69900-ce40-11eb-8d89-1c31c8098717.jpg)
+![3 HR dashboad gender insights](https://user-images.githubusercontent.com/85949588/122114359-cf88a600-ce40-11eb-8e52-46257355f963.jpg)
