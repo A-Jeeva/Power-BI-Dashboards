@@ -8,8 +8,21 @@
 
 
 
+
+
+
 /* Customer Insights over sales and Engagement*/ 
 
 
 ![6  Customer insights sales and marketing](https://user-images.githubusercontent.com/85949588/122104216-1375ae00-ce35-11eb-8b71-d331e54241fe.jpg)
 
+
+
+
+
+
+
+/* HR Dashboard - Insights over Gender and salary , Turnover and Retention rate */
+
+
+![3  HR dashboard Salary,turnover and rentention rate](https://user-images.githubusercontent.com/85949588/122113945-5be69900-ce40-11eb-8d89-1c31c8098717.jpg)
