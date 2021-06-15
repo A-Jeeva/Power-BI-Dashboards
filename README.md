@@ -6,5 +6,5 @@
 
 
 /* Customer Insights over sales and Engagement*/ 
-
+![6  Customer insights sales and marketing](https://user-images.githubusercontent.com/85949588/122104216-1375ae00-ce35-11eb-8b71-d331e54241fe.jpg)
 
