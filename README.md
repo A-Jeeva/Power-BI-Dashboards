@@ -2,7 +2,9 @@
 
 /* Sales Dashboard -  Revenue and Margin, Pareto , Cummulative sales Analysis */
 
+![1 Sales Dashboard- Revenue and Margin analysis](https://user-images.githubusercontent.com/85949588/122205569-06e96800-cebe-11eb-952e-bb552c007c62.jpg)
 
+![1 Sales Dashboard- Pareto analysis, Cummulative sales](https://user-images.githubusercontent.com/85949588/122205563-051fa480-cebe-11eb-90ab-6cab0a9e1827.jpg)
 
 
 /* Revenue and Customer Ageing Analysis*/
@@ -15,14 +17,10 @@
 
 
 
-
-
 /* Customer Insights over sales and Engagement*/ 
 
 
 ![6  Customer insights sales and marketing](https://user-images.githubusercontent.com/85949588/122104216-1375ae00-ce35-11eb-8b71-d331e54241fe.jpg)
-
-
 
 
 
