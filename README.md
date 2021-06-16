@@ -1,4 +1,10 @@
 # Power-BI-Dashboards
+
+/* Sales Dashboard -  Revenue and Margin, Pareto , Cummulative sales Analysis */
+
+
+
+
 /* Revenue and Customer Ageing Analysis*/
 
 
